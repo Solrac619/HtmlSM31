@@ -1,0 +1,38 @@
+*{
+    font-family: 'Rubik', sans-serif;
+
+}
+* h1, p{
+    text-align: center;
+}
+
+.TopNav{
+    float: right;
+    width: 35%;
+
+    }
+    
+    .TopNav ul{
+    list-style: none;
+    }
+    
+    .TopNav ul li{
+        display: inline-block;
+        padding: 3%
+    }
+    
+    .TopNav ul li a:hover{
+         color: aquamarine;
+         border-bottom: 2.5px solid red;
+         padding-bottom: 2.5px;
+    }
+    
+    header{
+        background: rgb(146, 27, 146);
+        width: 100%;
+        position: absolute;
+    }
+
+    #titulo{
+        text-align: center;
+    }
